@@ -1,5 +1,8 @@
 📚 Udemy Clone – Desktop Version
 
+Demo
+You can see the live demo of this project at: https://s0sanjay.github.io/udemy-clone/
+
 Week 1 Project
 
 📌 Project Overview
